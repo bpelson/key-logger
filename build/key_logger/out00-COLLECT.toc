@@ -1,0 +1,54 @@
+([('key_logger.exe',
+   'C:\\Users\\iD Student\\Desktop\\Ben P\\build\\key_logger\\key_logger.exe',
+   'EXECUTABLE'),
+  ('key_logger.exe.manifest',
+   'C:\\Users\\iD Student\\Desktop\\Ben '
+   'P\\build\\key_logger\\key_logger.exe.manifest',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'c:\\users\\id '
+   'student\\appdata\\local\\programs\\python\\python36\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('python36.dll',
+   'c:\\users\\id '
+   'student\\appdata\\local\\programs\\python\\python36\\python36.dll',
+   'BINARY'),
+  ('_ssl',
+   'c:\\users\\id '
+   'student\\appdata\\local\\programs\\python\\python36\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('unicodedata',
+   'c:\\users\\id '
+   'student\\appdata\\local\\programs\\python\\python36\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('pyexpat',
+   'c:\\users\\id '
+   'student\\appdata\\local\\programs\\python\\python36\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_hashlib',
+   'c:\\users\\id '
+   'student\\appdata\\local\\programs\\python\\python36\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_bz2',
+   'c:\\users\\id '
+   'student\\appdata\\local\\programs\\python\\python36\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('_lzma',
+   'c:\\users\\id '
+   'student\\appdata\\local\\programs\\python\\python36\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_socket',
+   'c:\\users\\id '
+   'student\\appdata\\local\\programs\\python\\python36\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('select',
+   'c:\\users\\id '
+   'student\\appdata\\local\\programs\\python\\python36\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_ctypes',
+   'c:\\users\\id '
+   'student\\appdata\\local\\programs\\python\\python36\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('base_library.zip',
+   'C:\\Users\\iD Student\\Desktop\\Ben P\\build\\key_logger\\base_library.zip',
+   'DATA')],)
